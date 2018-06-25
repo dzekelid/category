@@ -4,7 +4,7 @@ description: This is a repository of category APIs, self-contained as a Github r
   with HTML and YAML representations of the APIs and their surrounding operations.
 image: http://template.streamdata.gallery/assets/category.png
 created: "2018-02-24"
-modified: "2018-06-17"
+modified: "2018-06-25"
 url: http://category.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
@@ -18,12 +18,12 @@ include:
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/square/apis.yaml
 - name: Google Books
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/google-books/apis.yaml
+- name: Google Doubleclick
+  url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/google-doubleclick/apis.yaml
 - name: NPR
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/npr/apis.yaml
 - name: eBay
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/ebay/apis.yaml
-- name: Google Doubleclick
-  url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/google-doubleclick/apis.yaml
 - name: Xignite
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/xignite/apis.yaml
 - name: Mattermost
@@ -42,8 +42,6 @@ include:
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/reverb/apis.yaml
 - name: Xero
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/xero/apis.yaml
-- name: TidyHQ
-  url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/tidyhq/apis.yaml
 - name: Instructure
   url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/instructure/apis.yaml
 - name: Instructure

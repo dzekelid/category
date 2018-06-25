@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/869-newscr
 x-kinRank: "7"
 x-alexaRank: "91598"
 tags: Category
-created: "2018-06-17"
-modified: "2018-06-17"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/category/master/_listings/newscred/apis.md
 specificationVersion: "0.14"
 apis:
